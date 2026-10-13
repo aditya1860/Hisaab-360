@@ -3,12 +3,8 @@ node_modules/
 npm-debug.log*
 
 # ── Environment files — NEVER commit real secrets ──
-.env
-.env.*
-*.env
-*.env.*
-**/.env
-**/.env.*
+.env*
+!.env.example
 
 # ── Build output ──────────────────────────────────
 frontend/dist/
