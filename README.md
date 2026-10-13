@@ -1,5 +1,9 @@
 # Hisaab360 
-
+Frontend (Vercel): https://frontend-ten-omega-10.vercel.app
+ (Direct deployment alias: https://frontend-fkpgeo3hb-joshiaditya250-5679s-projects.vercel.app)
+Backend (Render): https://hisaab-360-1.onrender.com
+Health check: https://hisaab-360-1.onrender.com/api/health
+Source Code (GitHub): https://github.com/aditya1860/Hisaab-360
 > **Smart Wholesale Credit & Collections Management**
 
 A full-stack, production-deployed web platform that helps small wholesale businesses
